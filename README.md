@@ -58,6 +58,7 @@ https://www.kaggle.com/datasets/dhruvkp07/funnel-analysis-dataset
 * Aggregate Functions
 * Data Quality Checks
 * Conditional Aggregation
+* Funnel Analysis
 
 ---
 
@@ -157,8 +158,9 @@ The highest customer loss occurred between Checkout and Purchase stages.
 
 ## Conclusion
 
-The analysis revealed an overall funnel conversion rate of 10.04%, with the largest drop-off occurring between Checkout and Purchase stages (70.95%).
+This analysis revealed that only **10.04% of users completed a purchase**, indicating significant opportunities to improve customer progression through the sales funnel. The most critical bottleneck was identified between the **Checkout and Purchase stages**, where **70.95% of users abandoned the journey before completing a transaction**.
 
-Desktop users demonstrated the strongest conversion performance, while Google Ads emerged as the highest-converting acquisition channel. The South region and Electronics category achieved the best conversion rates among their respective segments.
+Segment-level analysis showed that **Desktop users, Google Ads traffic, the South region, and the Electronics category consistently achieved the highest conversion rates**, highlighting the characteristics of the most valuable customer segments.
 
-These findings highlight opportunities to optimize the checkout experience, reduce purchase-stage abandonment, and improve customer progression through the conversion funnel.
+These findings suggest that improving the checkout experience, reducing purchase friction, and replicating the strategies driving success in high-performing channels and customer segments could substantially increase conversions and overall business performance. By addressing the largest drop-off point and optimizing underperforming segments, the business can unlock significant revenue growth without necessarily increasing customer acquisition efforts.
+
