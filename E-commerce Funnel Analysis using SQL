@@ -53,11 +53,11 @@ KEY FINDINGS
 
 ## Device-wise Conversion Analysis
 
-![Device Analysis](screenshots/device_conversion).png
+!Device Analysis.png
 
 ## Channel-wise Conversion Analysis
 
-![Channel Analysis](screenshots/channel_conversion).png
+!Channel Analysis.png
 
 CONCLUSION
 The analysis identified significant user loss between Checkout and Purchase stages, indicating opportunities to optimize payment and checkout experiences. Desktop users and Google Ads traffic demonstrated the strongest conversion performance.
