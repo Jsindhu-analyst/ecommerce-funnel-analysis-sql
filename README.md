@@ -143,7 +143,7 @@ The highest customer loss occurred between Checkout and Purchase stages.
 
 ![Product Category Analysis](screenshots/product_category_analysis.png)
 
-**Best Performing Category:** Electronics
+
 
 ---
 
