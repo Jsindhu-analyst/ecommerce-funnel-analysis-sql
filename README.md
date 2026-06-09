@@ -118,24 +118,30 @@ The highest customer loss occurred between Checkout and Purchase stages.
 
 ---
 
-### Region-wise Conversion Analysis
+## Region-wise Conversion Analysis
 
-* South: 10.54%
-* North: 10.27%
-* West: 9.73%
-* East: 9.62%
+- South: 10.54%
+- North: 10.27%
+- West: 9.73%
+- East: 9.62%
 
 **Best Performing Region:** South
 
+![Region Analysis](screenshots/region_analysis.png)
+
 ---
 
-### Product Category Conversion Analysis
+## Product Category Conversion Analysis
 
-* Electronics: 11.16%
-* Fashion: 10.54%
-* Sports: 9.70%
-* Beauty: 9.45%
-* Home: 9.30%
+- Electronics: 11.16%
+- Fashion: 10.54%
+- Sports: 9.70%
+- Beauty: 9.45%
+- Home: 9.30%
+
+**Best Performing Category:** Electronics
+
+![Product Category Analysis](screenshots/product_category_analysis.png)
 
 **Best Performing Category:** Electronics
 
