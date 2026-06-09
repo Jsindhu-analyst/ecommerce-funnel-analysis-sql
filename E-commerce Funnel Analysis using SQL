@@ -18,7 +18,7 @@ Dataset contains 21,409 customer interaction records across four funnel stages:
 
 Columns:
 - User ID
-- Session   ID
+- Session ID
 - Event
 - Device
 - Region
@@ -53,11 +53,11 @@ KEY FINDINGS
 
 ## Device-wise Conversion Analysis
 
-![Device Analysis](screenshots/device_conversion.png)
+![Device Analysis](screenshots/device_conversion).png
 
 ## Channel-wise Conversion Analysis
 
-![Channel Analysis](screenshots/channel_conversion.png)
+![Channel Analysis](screenshots/channel_conversion).png
 
 CONCLUSION
 The analysis identified significant user loss between Checkout and Purchase stages, indicating opportunities to optimize payment and checkout experiences. Desktop users and Google Ads traffic demonstrated the strongest conversion performance.
