@@ -1,0 +1,63 @@
+# E-commerce Funnel Analysis using SQL
+This project analyses customer behaviour across an e-commerce conversion funnel using SQL.
+
+PROJECT OVERVIEW
+The objective is to identify user drop-off points, measure conversion rates, and evaluate performance across devices, channels, regions, and product categories.
+
+## Dataset Source
+
+Dataset sourced from Kaggle:
+
+[E-commerce Funnel Analysis Dataset] https://www.kaggle.com/datasets/dhruvkp07/funnel-analysis-dataset
+Dataset contains 21,409 customer interaction records across four funnel stages:
+
+- Browse
+- Add to Cart
+- Checkout
+- Purchase
+
+Columns:
+- User ID
+- Session   ID
+- Event
+- Device
+- Region
+- Channel
+- Product Category
+- Revenue
+- Bonus Flag
+
+BUSINESS QUESTIONS
+1. What is the overall funnel conversion rate?
+2. Which funnel stage has the highest drop-off?
+3. Which device converts best?
+4. Which marketing channel performs best?
+5. Which region has the highest conversion rate?
+6. Which product category converts best?
+
+SQL TECHNIQUES USED
+- CASE WHEN
+- COUNT(DISTINCT)
+- GROUP BY
+- ORDER BY
+- Aggregate Functions
+- Data Quality Checks
+
+KEY FINDINGS
+- Overall Conversion Rate: 10.04%
+- Highest Drop-off: Checkout → Purchase (70.95%)
+- Best Device: Desktop (10.58%)
+- Best Channel: Google Ads (10.63%)
+- Best Region: South (10.54%)
+- Best Product Category: Electronics (11.16%)
+
+## Device-wise Conversion Analysis
+
+![Device Analysis](screenshots/device_conversion.png)
+
+## Channel-wise Conversion Analysis
+
+![Channel Analysis](screenshots/channel_conversion.png)
+
+CONCLUSION
+The analysis identified significant user loss between Checkout and Purchase stages, indicating opportunities to optimize payment and checkout experiences. Desktop users and Google Ads traffic demonstrated the strongest conversion performance.
