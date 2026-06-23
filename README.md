@@ -1,6 +1,6 @@
 # E-commerce Funnel Analysis using SQL
 
-## Project Overvie
+## Project Overview 
 
 This project analyzes customer behavior across an e-commerce conversion funnel using Oracle SQL.
 
