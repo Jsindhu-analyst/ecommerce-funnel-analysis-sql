@@ -1,4 +1,4 @@
-# E-commerce Funnel Analysis using SQL
+# E-commerce Funnel Analysis using SQL.
 
 ## Project Overview 
 
